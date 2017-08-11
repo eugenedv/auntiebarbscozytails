@@ -1,0 +1,15 @@
+[{
+    "id": "1",
+    "name": "Batman",
+    "price": 35.00,
+    "image": "/images/batman-sign.jpg",
+    "description": "Medium size batman tail",
+    "url": "http://auntiebarbscozytails.netlify.com"
+}, {
+    "id": "2",
+    "name": "Whales",
+    "description": "Medium size tail with whales.",
+    "price": 26.00,
+    "image": "/images/whales-med.jpg",
+    "url": "http://auntiebarbscozytails.netlify.com"
+}]
