@@ -8,22 +8,22 @@
 }, {
     "id": "2",
     "name": "Whales",
-    "description": "Medium size tail with whales. $26.00",
-    "price": 26.00,
+    "description": "Medium size tail with whales. $28.00",
+    "price": 28.00,
     "image": "/images/whales-med.jpg",
     "url": "http://auntiebarbscozytails.netlify.com"
 }, {
 	"id": "3",
 	"name": "Music",
-	"description": "Medium tail with music theme. $26.00",
-	"price": 26.00,
+	"description": "Medium tail with music theme. $28.00",
+	"price": 28.00,
 	"image": "/images/music-med.jpg",
 	"url": "http://auntiebarbscozytails.netlify.com"
 }, {
 	"id": "3",
 	"name": "Froggy",
-	"description": "Medium tail with frogs and salamanders. $26.00",
-	"price": 26.00,
+	"description": "Medium tail with frogs and salamanders. $28.00",
+	"price": 28.00,
 	"image": "/images/froggy.jpg",
 	"url": "http://auntiebarbscozytails.netlify.com"
 }]
