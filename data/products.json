@@ -1,20 +1,12 @@
 [{
-    "id": "1",
-    "name": "Batman",
-    "price": 35.00,
-    "stock": 1,
-    "weight": 567,
-    "width": 25,
-    "length": 35,
-    "height": 10,
-    "image": "/images/batman-sign.jpg",
-    "description": "Medium size batman tail. $35.00",
-    "url": "http://auntiebarbscozytails.netlify.com"
-}, {
     "id": "2",
     "name": "Whales",
     "description": "Medium size tail with whales. $28.00",
     "price": 28.00,
+    "weight": 567.00,
+    "width": 25,
+    "length": 35,
+    "height": 10,  
     "stock": 1,
     "image": "/images/whales-med.jpg",
     "url": "http://auntiebarbscozytails.netlify.com"
@@ -27,7 +19,7 @@
 	"image": "/images/music-med.jpg",
 	"url": "http://auntiebarbscozytails.netlify.com"
 }, {
-	"id": "3",
+	"id": "4",
 	"name": "Froggy",
 	"description": "Medium tail with frogs and salamanders. $28.00",
 	"price": 28.00,
