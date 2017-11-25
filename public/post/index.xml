@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Auntie Barb&#39;s Cozy Tails</title>
+    <link>http://www.auntiebarbscozytails.com/post/</link>
+    <description>Recent content in Posts on Auntie Barb&#39;s Cozy Tails</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2017 10:22:29 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.auntiebarbscozytails.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://www.auntiebarbscozytails.com/post/welcome/</link>
+      <pubDate>Fri, 11 Aug 2017 10:22:29 -0500</pubDate>
+      
+      <guid>http://www.auntiebarbscozytails.com/post/welcome/</guid>
+      <description>Welcome to Auntie Barb&amp;rsquo;s Cozy Tails. We make custom cozy tails for both boys and girls. Please enjoy a selection of our currently available tails. We&amp;rsquo;d love to hear from you if you don&amp;rsquo;t see exactly what you&amp;rsquo;d like.</description>
+    </item>
+    
+  </channel>
+</rss>

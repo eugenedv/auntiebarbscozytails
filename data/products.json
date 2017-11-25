@@ -15,6 +15,10 @@
 	"name": "Music",
 	"description": "Medium tail with music theme. $28.00",
 	"price": 28.00,
+	"weight": 567.00,
+	"width": 25,
+	"length": 35,
+	"height": 10,
     "stock": 1,
 	"image": "/images/music-med.jpg",
 	"url": "http://auntiebarbscozytails.netlify.com"
@@ -23,6 +27,10 @@
 	"name": "Froggy",
 	"description": "Medium tail with frogs and salamanders. $28.00",
 	"price": 28.00,
+	"weight": 567.00,
+	"width": 25, 
+	"length": 35,
+	"height": 10,
     "stock": 1,
 	"image": "/images/froggy.jpg",
 	"url": "http://auntiebarbscozytails.netlify.com"
